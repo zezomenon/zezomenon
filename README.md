@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/israelmlisboa/" target="blank"><img align="center" src="" alt="https://www.linkedin.com/in/israelmlisboa/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/israelmlisboa/" target="blank"><img align="center" alt="https://www.linkedin.com/in/israelmlisboa/" height="30" width="40" /></a>
 </p>
 
 
