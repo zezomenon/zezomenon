@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/israelmlisboa/" target="blank"><img align="center" src="https://camo.githubusercontent.com/8776fde034d0f806a5cdc59035f91501966d26ef56747dbd46e57203ad75e0d5/68747470733a2f2f706963732e6672656569636f6e732e696f2f75706c6f6164732f69636f6e732f706e672f31353739323135323934313535363130353332352d3531322e706e67" alt="https://www.linkedin.com/in/israelmlisboa/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/israelmlisboa/" target="blank"><img align="center"</a>
 </p>
 
 
