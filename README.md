@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zezomenon&label=Profile%20views&color=0e75b6&style=flat" alt="zezomenon" /> </p>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/israelmlisboa/" target="blank"><img align="center" src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/israelmlisboa/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/israelmlisboa/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
