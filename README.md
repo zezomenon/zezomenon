@@ -1,4 +1,5 @@
-<h3 align="center">Hi 👋, I'm Israel</h3>
+<h3 align="left">Hi 👋, I'm Israel</h3>
+<h2 align="left">A full stack developer (loading...) student at Trybe, passionate about technology and coffee.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zezomenon&label=Profile%20views&color=0e75b6&style=flat" alt="zezomenon" /> </p>
 
