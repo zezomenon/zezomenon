@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm Israel</h3>
-<h4 align="left">A full stack developer student at Trybe, passionate about technology and coffee.</h4>
+<h4 align="left">A full stack developer formed at Trybe, passionate about technology and coffee.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zezomenon&label=Profile%20views&color=0e75b6&style=flat" alt="zezomenon" /> </p>
 
